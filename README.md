@@ -61,7 +61,6 @@ int main(){
 ```
 
 ### Screen Shots:
-
 #### MySourceCode.txt
 
 <img src="Media%20Resources/mysourcecode.png " width="500"><br><br>
