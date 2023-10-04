@@ -61,14 +61,6 @@ int main(){
 ```
 
 ### Screen Shots:
-#### MySourceCode.txt
-
-<img src="Media%20Resources/mysourcecode.png " width="500"><br><br>
-
-#### Output(Console)
-
-<img src="Media%20Resources/outputconsole.png " width="500"><br><br>
-
 #### OutputFile.txt
 
 <img src="Media%20Resources/outputfile.png " width="650">
