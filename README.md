@@ -30,16 +30,7 @@ Example of tokens:
 1. Tokenization i.e. Dividing the program into valid tokens.
 2. Remove white space characters.
 3. Remove comments.
-   
-## How to Run this Project:
-1. Clone the project using command:  `git clone https://github.com/Akshit6828/Lexical-Analyzer.git `
-2. Change directory to Lexical-Analyzer using command: `cd Lexical-Analyzer`.
-3. Make a text file in this folder and write source code in C++.
-   3.1 Try the source code written written [here](#sample-source-code)
-4. Open `Lex.exe` file by double clicking on the file.
-5. You'll see all associated tokens from the source code.
-   
-> ### Note: This is a Lexical Analyzer for a particular `subset of C++ language` explained under [Assumptions:](#assumptions) . It may not be able to parse the all token of C++ language.
+
 
 ## ASSUMPTIONS:
 
@@ -60,7 +51,7 @@ Example of tokens:
 #define LIMIT 5
 using namespace std ;
 int main(){
-    // this comment is written by akshit mangotra for lexical analyzer to avoid reading the comments
+   
     int A , B ;
     cin >> A >> B;
     cout << A * B ; 
